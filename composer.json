@@ -1,12 +1,12 @@
 {
-    "name": "laravel/socialite",
+    "name": "88jobs/socialite",
     "description": "Laravel wrapper around OAuth 1 & OAuth 2 libraries.",
     "keywords": ["oauth", "laravel"],
     "license": "MIT",
     "homepage": "https://laravel.com",
     "support": {
-        "issues": "https://github.com/laravel/socialite/issues",
-        "source": "https://github.com/laravel/socialite"
+        "issues": "https://github.com/88jobs/socialite/issues",
+        "source": "https://github.com/88jobs/socialite"
     },
     "authors": [
         {
